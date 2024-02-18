@@ -9,6 +9,8 @@
     let filteredDataChina = []
     let maxYValue = 0;
     let maxYValueChina = 0;
+    var minValue = 1; // Minimum value to ensure hit area has height
+    var hitAreaHeight = 20; // Minimum hit area height
   
   
     onMount(async () => {
