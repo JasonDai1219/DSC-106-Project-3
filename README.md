@@ -20,9 +20,9 @@ The most challenging aspect of our project was ...
 
 Our team's division of labor and time investment were as follows:
 
--Jason Dai
+- Jason Dai
 
--Yuhe Tian
+- Yuhe Tian
 
--Jiangqi Wu
+- Jiangqi Wu
 
