@@ -504,6 +504,9 @@
     <header class="main-title">
       From Hydroenergy Focus to Energy Diversity in USA and China
     </header>
+    <div class="link-container">
+      <a href="https://github.com/JasonDai1219/DSC-106-Project-3/blob/main/README.md" target="_blank">Here Is A Detailed Description Of Our Work</a>
+    </div>
   
     <div class="charts-container">
       <div id="bar-chart"></div>
@@ -530,10 +533,3 @@
     <div id="line-chart"></div>
   </div>
 
-<div class="line-chart-container" style="text-align: center;">
-  <div id="line-chart"></div>
-</div>
-
-<div class="link-container">
-  <a href="https://github.com/JasonDai1219/DSC-106-Project-3/blob/main/README.md" target="_blank">Here Is A Detailed Description Of Our Work</a>
-</div>
