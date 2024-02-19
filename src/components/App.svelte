@@ -531,5 +531,5 @@
   </div>
 
   <div class="footer-link" style="text-align: center; position: fixed; bottom: 0; width: 100%; background-color: #f1f1f1; padding: 10px 0;">
-  <a href="https://github.com/JasonDai1219/DSC-106-Project-3/blob/main/README.md" target="_blank">Here is a detailed description to our work.</a>
+    <a href="https://github.com/JasonDai1219/DSC-106-Project-3/blob/main/README.md" target="_blank">Here is a detailed description to our work.</a>
   </div>
