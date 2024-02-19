@@ -498,6 +498,18 @@
     h1 {
       text-align: center; /* Centers the title */
     }
+
+  .footer-link {
+    text-align: center;
+    width: 100%;
+    background-color: #f1f1f1;
+    padding: 1px 0;
+  }
+
+  .center-link {
+    margin-left: 300px; /* Adjust this value as needed to center the link */
+  }
+
   </style>
   
   <div class="content-container">
@@ -513,13 +525,15 @@
   
   
   
-  <div class="slider-container">
-    <label for="yearSlider">Year:</label>
-    <input type="range" id="yearSlider" min="2002" max="2022" bind:value={selectedYear} />
-    <div style="display: flex; justify-content: space-between;">
-      <span>{selectedYear}</span>
-    </div>
-  </div>
+  <div class="slider-container" style="display: flex; align-items: center;">
+    <label for="yearSlider" style="margin-right: 10px;">Year:</label>
+    <input type="range" id="yearSlider" min="2002" max="2022" bind:value={selectedYear} style="margin-right: 10px; align-self: start;"/>
+    <span>{selectedYear}</span>
+    <a href="https://github.com/JasonDai1219/DSC-106-Project-3/blob/main/README.md" target="_blank" class="center-link">Here is a detailed description to our work.</a>
+</div>
+
+
+
   
   <div class="charts-container">
       <div id="bar-chart"></div>
@@ -530,6 +544,6 @@
     <div id="line-chart"></div>
   </div>
 
-  <div class="footer-link" style="text-align: center; position: fixed; bottom: 0; width: 100%; background-color: #f1f1f1; padding: 5px 0;">
+  <div class="footer-link">
     <a href="https://github.com/JasonDai1219/DSC-106-Project-3/blob/main/README.md" target="_blank">Here is a detailed description to our work.</a>
   </div>
