@@ -504,7 +504,7 @@
     <header class="main-title">
       From Hydroenergy Focus to Energy Diversity in USA and China
     </header>
-    <div class="link-container" style="text-align: center;">
+    <div class="link-container">
       <a href="https://github.com/JasonDai1219/DSC-106-Project-3/blob/main/README.md" target="_blank">Here Is A Detailed Description Of Our Work</a>
     <br></br>
     </div>
