@@ -16,7 +16,7 @@ In developing our interactive visualization, our journey began with a collaborat
 
 We embarked on our project by constructing a single visualization for the US, incorporating a slider for temporal navigation, before integrating a parallel visualization for China. Concurrently, we dedicated efforts to developing tooltips that offered detailed insights, enhancing the informational depth for viewers. Following the assembly of our main components, our focus shifted towards refining the visualization's aesthetic and interactive qualities. This refinement process included adjusting tooltip formatting, optimizing the visualization's title, and fine-tuning the slider's position and background color to enrich the user experience.
 
-The most challenging aspect of our project was ...
+The most challenging aspect of our project was plotting the bar plot for the visualization. The tough part is to read data from the json file and we also need to do some preprocessing before plotting. Also since there are two bar plot placed horizontally, it took us a lot of time to correctly format the graph and make all the label in x-axis visible to the views.
 
 Our team's division of labor and time investment were as follows:
 
@@ -24,5 +24,5 @@ Our team's division of labor and time investment were as follows:
 
 - Yuhe Tian: Yuhe also worked on data preprocessing, transforming the CSV dataset to JSON file. She also helps with making the interactive bar charts, which includes the chart itself, the slider, and formatting the webpage. Yuhe was also responsible for drafting the design rationale for our write-up. Yuhe spent approximately 14 hours on this project.
 
-- Jiangqi Wu
+- Jiangqi Wu: Jiangqi asisted in creating the interactive bar chart and formatting. Jiangqi is also in charge of creating the tooltip for the visualization and adjusting the format of tooltip. Jiangqi also participated in draft the writeup, specifically adding the tooltip description and develope process of the project. Jiangqi spent approximately 12 hours on this project.
 
