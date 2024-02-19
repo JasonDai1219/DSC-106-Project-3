@@ -530,6 +530,10 @@
     <div id="line-chart"></div>
   </div>
 
-  <div class="footer-link" style="text-align: center; position: fixed; bottom: 0; width: 100%; background-color: #f1f1f1; padding: 5px 0;">
-    <a href="https://github.com/JasonDai1219/DSC-106-Project-3/blob/main/README.md" target="_blank">Here is a detailed description to our work.</a>
-  </div>
+<div class="line-chart-container" style="text-align: center;">
+  <div id="line-chart"></div>
+</div>
+
+<div class="link-container">
+  <a href="https://github.com/JasonDai1219/DSC-106-Project-3/blob/main/README.md" target="_blank">Here Is A Detailed Description Of Our Work</a>
+</div>
