@@ -11,3 +11,18 @@ We considered an alternative chart which is pie chart. The reason that we eventu
 A notable trend observed through the interactive analysis is the diversification of renewable energy consumption patterns in both countries. This trend signifies a convergence between socialist and capitalist nations in embracing renewable energy sources.
 
 Through meticulous data analysis and visualization techniques, this project sheds light on the evolving landscape of renewable energy consumption in the USA and China. By highlighting convergence in consumption trends, we underscore the global shift towards energy diversity and sustainability.
+
+In developing our interactive visualization, our journey began with a collaborative discussion on the dataset and visualization theme. We settled on exploring the dynamics of energy consumption patterns across different countries, initially envisioning a geospatial visualization featuring a world map where users could interact with any country to observe changes in energy consumption patterns. However, the challenge of extensive missing data prompted us to pivot towards a more focused comparison between China and the US from 2002 to 2022, opting for clarity and directness in our visualization approach.
+
+We embarked on our project by constructing a single visualization for the US, incorporating a slider for temporal navigation, before integrating a parallel visualization for China. Concurrently, we dedicated efforts to developing tooltips that offered detailed insights, enhancing the informational depth for viewers. Following the assembly of our main components, our focus shifted towards refining the visualization's aesthetic and interactive qualities. This refinement process included adjusting tooltip formatting, optimizing the visualization's title, and fine-tuning the slider's position and background color to enrich the user experience.
+
+The most challenging aspect of our project was ...
+
+Our team's division of labor and time investment were as follows:
+
+-Jason Dai
+
+-Yuhe Tian
+
+-Jiangqi Wu
+
