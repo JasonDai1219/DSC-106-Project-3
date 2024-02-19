@@ -499,13 +499,6 @@
       text-align: center; /* Centers the title */
     }
 
-  .footer-link {
-    text-align: center;
-    width: 100%;
-    background-color: #f1f1f1;
-    padding: 1px 0;
-  }
-
   .center-link {
     margin-left: 300px; /* Adjust this value as needed to center the link */
   }
@@ -516,7 +509,7 @@
     <header class="main-title">
       From Hydroenergy Focus to Energy Diversity in USA and China
     </header>
-  
+
     <div class="charts-container">
       <div id="bar-chart"></div>
       <div id="bar-chart-china"></div>
@@ -544,6 +537,3 @@
     <div id="line-chart"></div>
   </div>
 
-  <div class="footer-link">
-    <a href="https://github.com/JasonDai1219/DSC-106-Project-3/blob/main/README.md" target="_blank">Here is a detailed description to our work.</a>
-  </div>
