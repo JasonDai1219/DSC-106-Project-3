@@ -20,7 +20,7 @@ The most challenging aspect of our project was ...
 
 Our team's division of labor and time investment were as follows:
 
-- Jason Dai
+- Jason Dai: Jason worked on data processing, which is to gather China and USA's data from the "Our World in Data" dataset, and transformed them to JSON files so that we can import it in our project. Jason also worked on making functions that draws interactive bar chart for each country across years. Moreover, Jason also participated in making the slider and adjusting positions and sizes of the overall visualization. Jason spent approximately 20 hours on this project.
 
 - Yuhe Tian
 
