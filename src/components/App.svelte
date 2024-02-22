@@ -507,7 +507,7 @@
   
   <div class="content-container">
     <header class="main-title">
-      From Hydroenergy Focus to Energy Diversity in USA and China
+      From Hydro Energy Focus to Energy Diversity in USA and China
     </header>
 
     <div class="charts-container">
