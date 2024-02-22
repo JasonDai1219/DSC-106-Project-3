@@ -284,7 +284,7 @@
                  .duration(200)
                  .style("opacity", .9);
             tooltip.html(`Country: China<br>Year: ${selectedYear}<br>Type: ${d.category}<br>Amount: ${d.value + "%"}`)
-                 .style("left", (event.pageX) + "px")
+                 .style("left", (event.pageX - 100) + "px")
                  .style("top", (event.pageY - 28) + "px");
         })
         .on("mouseout", () => {
