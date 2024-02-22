@@ -81,7 +81,7 @@
                        .domain(filteredData.map(d => d.category));
   
       const yScale = d3.scaleLinear()
-                       .domain([0, maxYValue])
+                       .domain([0, 100])
                        .range([height, 0]);
   
       const tooltip = d3.select('body').selectAll('.tooltip').data([null]); // Ensures only one tooltip exists
